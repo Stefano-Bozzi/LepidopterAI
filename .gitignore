@@ -3,7 +3,6 @@ venv/*
 archive/*
 
 #─FILES───────────────────────────────────────────────────────
-Manifest.toml
 *_checkpoints
 
 #to make local files for experiment
