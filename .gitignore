@@ -5,9 +5,11 @@ archive/*
 
 #─FILES───────────────────────────────────────────────────────
 *_checkpoints
+*.png
 
 #to make local files for experiment
 *local*
+*copy*
 
 #─EXCEPTIONS───────────────────────────────────────────────────────
 # --
